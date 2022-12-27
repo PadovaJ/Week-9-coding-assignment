@@ -1,0 +1,42 @@
+table {
+    border-collapse:collapse;
+    width: 100%;
+    
+}
+
+th, td {
+    padding:8px;
+    text-align: left;
+    border-bottom: 5px solid black;
+}
+tr:nth-child(even) {
+    background-color: rgb(185 185 185);
+}
+tr:hover {
+    background-color: grey;
+}
+
+
+
+.container {
+  background-color:aqua a;
+  
+  background-image:  url('https://images.happycow.net/venues/1024/21/09/hcmp210973_1392328.jpeg');
+  
+}
+.row {
+   margin-bottom: 100%;
+   text-align: center;
+   color: antiquewhite;
+   font-family: playfair;
+}
+.col-md {
+    margin-top:10%;
+}
+.row {
+    border: solid 1px black
+}
+body {
+    background-image: url('https://media.istockphoto.com/id/1284690585/photo/colorful-vegetables-and-fruits-vegan-food-in-rainbow-colors.jpg?b=1&s=170667a&w=0&k=20&c=HALMriAeUNo9ARz6wFS1Lg51rt6hdVZxRtc_ffwxefc=')
+}
+
